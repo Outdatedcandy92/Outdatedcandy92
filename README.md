@@ -12,3 +12,9 @@ Some cool stuff that I've done are:
 I'm current working on:
 - [Allwinner V3s Based SBC](https://github.com/Outdatedcandy92/V3S-SBC)
 - [Audio Development Board](https://github.com/Outdatedcandy92/Audio-Devboard)
+
+
+
+You can find more about me on my personal website - [rudymakes.com](https://rudymakes.com/)
+
+Want to get in touch? Shoot me an email at **rudy[at]rudymakes.com**
