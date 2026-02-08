@@ -3,7 +3,7 @@
 I'm a 17 year old maker from Toronto who loves hardware.
 
 Some cool stuff that I've done are:
-- Organized a [Hackathon](https://daydream.hackclub.com/toronto) @ Shopify Toronto for teenagers
+- Organized a [Hackathon](https://cdn.2008000.xyz/cdn/08-02-2026%2Fb8a4f4b4_image.jpeg) @ Shopify Toronto for teenagers
 - Got one of my project featured on a [hardware magazine cover](https://cdn.2008000.xyz/cdn/03-02-2026%2F243c8b13_image.png)
 - Participated in Canada's largest hackathon, Hack The North!
 - Ran a few programs online in Hack Club
