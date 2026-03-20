@@ -6,7 +6,7 @@ I'm a 17 year old maker from Toronto who loves hardware.
 Some cool stuff that I've done are:
 - Organized [Hackathons](./attachments/Hardware%20Hack%20Days.png) in Toronto for teenagers :D
 - Mentored at [Hardware Hack Days](./attachments/Hardware%20Hack%20Days.png) PCB workshop @ UofT and UW
-- Got one of my project featured on a [hardware magazine cover](https://cdn.2008000.xyz/cdn/03-02-2026%2F243c8b13_image.png)(twice)
+- Got one of my project featured on a [hardware magazine cover](./attachments/Magazine.jpg)(twice)
 - Ran and currently [running](https://resolution.hackclub.com/ref/hardware) cool online programs in [Hack Club](https://hackclub.com/)
 - Designed a sick cover for my school's annual yearbook
 
